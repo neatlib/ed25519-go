@@ -15,7 +15,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/neatio-project/ed25519/edwards25519"
+	"github.com/neatlib/ed25519-go/edwards25519"
 )
 
 type zeroReader struct{}

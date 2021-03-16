@@ -7,7 +7,7 @@ package extra25519
 import (
 	"crypto/sha512"
 
-	"github.com/neatio-project/ed25519/edwards25519"
+	"github.com/neatlib/ed25519-go/edwards25519"
 )
 
 // PrivateKeyToCurve25519 converts an ed25519 private key into a corresponding

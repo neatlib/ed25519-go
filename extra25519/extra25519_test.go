@@ -9,7 +9,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/neatio-project/ed25519"
+	"github.com/neatlib/ed25519-go"
 	"golang.org/x/crypto/curve25519"
 )
 
