@@ -1,1 +1,1 @@
-# ed25519-go library
+# Ed25519-go Library
